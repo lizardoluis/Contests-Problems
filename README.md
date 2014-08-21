@@ -1,2 +1,1 @@
-SPOJ problems
-========
+Some SPOJ problems
