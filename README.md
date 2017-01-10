@@ -1,1 +1,1 @@
-Some SPOJ problems
+Some problems from programming contests.
